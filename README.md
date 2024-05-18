@@ -10,7 +10,7 @@ Certification Pratice Test:
 
 C1000-058: IBM MQ V9.1 System Administration - Practice Test -https://www.udemy.com/course/ibm-mq-exam/?referralCode=AC49C6B61FCA08602112
 
-C1000-174: IBM WebSphere Application Server - Pratcice Test - https://www.udemy.com/course/ibm-was-exam/?referralCode=FC3BB80320318FA41203
+C1000-174: IBM WebSphere Application Server - Practice Test - https://www.udemy.com/course/ibm-was-exam/?referralCode=FC3BB80320318FA41203
 
 C1000-126 - IBM WebSphere Hybrid Edition - Practice Test - https://www.udemy.com/course/websphere-hybrid-exam/?referralCode=15E8B26F7CB2F4DC693B
 
